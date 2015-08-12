@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Exercicio2</title>
+</head>
+<body>
+<!-- Topo -->
+ <h1>Seja Bem Vindo</h1>
+ <a href="#">Sobre</a> | <a href="#">Contato</a>
+ <br>
+
+
+ <!-- Conteudo -->
+ <p>Lorem ipsum dolor sit amet, aeterno conceptam eum ei, mel ad diam causae accommodare, eum nihil intellegebat eu. Te his vero quaestio. Ea sit euismod adipisci, ex nam mentitum dignissim instructior. Has ut falli regione. Salutandi comprehensam ex qui, ut solet contentiones nec.
+
+Sit aliquip maiorum sensibus ne, vocibus eligendi ne cum. Equidem constituto cu has. Pro dolorem omnesque ad, ut quo dolor apeirian qualisque, eu meis essent commune per. Tale consetetur vix ex.
+
+Meis omnes in est. Te esse saperet nec, vero latine appetere ne duo. Utamur corpora euripidis et cum, etiam recteque abhorreant has at, saepe quidam constituto ei quo. At vitae detracto corrumpit quo, an per munere vulputate, ea inciderint reprehendunt qui. Sed recteque theophrastus ea. Pro persius aliquam ullamcorper et.
+
+Sit id primis mediocritatem, pro decore molestie assueverit in, sea tempor verear et. Dictas molestiae adipiscing per eu, eos volumus voluptua postulant et. Dicat solet discere ius in, justo aperiri dolores ei pro. Quis doctus torquatos in ius. Delenit incorrupte ad per, pro magna verterem phaedrum ne. Putant fastidii definiebas vix eu, option iracundia contentiones ei pro.
+
+Magna facilis vituperatoribus te duo. Nostro maiorum voluptua eos et, sit ex omnis conclusionemque. Quod tincidunt cu vix, vim tale mucius malorum et. Commune albucius eum ea, recusabo qualisque ex </p>
+
+<img style="width:20%;" src="http://tse1.mm.bing.net/th?&id=JN.W46x0qL7WHHpaXNBp13Kyg&w=300&h=300&c=0&pid=1.9&rs=0&p=0">
+<br>
+
+<!-- Rodape -->
+<p>Desenvolvido por Mario Silvio Montaute</p>
+
+
+</body>
+</html>Enter file contents here
